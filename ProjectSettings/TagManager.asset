@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hero
+  - Enemy
+  - Floor
+  - Background
+  - Background Loop Checker
+  - Patient
+  - Patient Room
+  - Projectile
+  - Hero Dying
+  - Ceringe
+  - Enemy Wall
+  - Projectile Wall
+  - Boss
+  - Enemy Firing Area
+  - Projectile Returning
+  - Input Denier
+  - Projectile 2
+  - Landing Area
+  - Background Loop Checker City
+  - Bg City
+  - Bg Off Limit Walls
+  - Boss Gun
+  - Boss Hoverboard
+  - Background Loop Checker City 2
+  - Enemy Firing Area 2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Hero
+  - Sword
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4030286331
+    locked: 0
+  - name: Characters
+    uniqueID: 3377406813
+    locked: 0
+  - name: VFX
+    uniqueID: 3073821157
+    locked: 0
+  - name: Hero
+    uniqueID: 2689867721
+    locked: 0
+  - name: Enemies
+    uniqueID: 778222477
+    locked: 0
+  - name: VFX 2
+    uniqueID: 2204027209
+    locked: 0
+  - name: Foreground
+    uniqueID: 2369376335
+    locked: 0
