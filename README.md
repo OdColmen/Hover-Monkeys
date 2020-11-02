@@ -1,4 +1,4 @@
-![a](https://static.wixstatic.com/media/5b47b1_e94d4b2eff6e4b799c8feba86a9f1750~mv2.png)
+![a](https://static.wixstatic.com/media/5b47b1_0bf4f410d32745b9afe7aa41c836ae8e~mv2.png)
 
 ### About The Game
 Mobile 2D endless runner made in Unity. Inspired by Chrome's offline dino game, but with a "boss-battle feel" to it. You're a hoverboard riding monkey chasing masked mooks who are firing projectiles at you.
