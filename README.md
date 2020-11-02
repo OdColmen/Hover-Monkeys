@@ -23,4 +23,5 @@ Mobile 2D endless runner made in Unity. Inspired by Chrome's offline dino game, 
 ![a](https://static.wixstatic.com/media/5b47b1_3e03be5e1663401d92fd3eb4b36ef58f~mv2.png)
 ![a](https://static.wixstatic.com/media/5b47b1_62565930738e4511987f1e8ad8eccde1~mv2.png)
 
-### [You can see my full portfolio here](https://odcolmen.wixsite.com/portfolio/)
+### Other Games
+##### [You can see my full portfolio here](https://odcolmen.wixsite.com/portfolio/)
